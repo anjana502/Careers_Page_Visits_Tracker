@@ -1,0 +1,6 @@
+body { width: 350px; padding: 12px; font-family: system-ui; }
+h2 { margin: 0 0 8px; font-size: 16px; }
+input, select { width: 100%; padding: 6px; margin-bottom: 8px; border: 1px solid #ddd; border-radius: 6px; }
+.entry { padding: 8px; border-bottom: 1px solid #eee; }
+.entry a { color: #2563eb; text-decoration: none; display: block; font-weight: 500; }
+.entry span { font-size: 12px; color: #888; }
